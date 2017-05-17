@@ -3,8 +3,8 @@
 This repository contains a file watch tool.
 
 Running:
-   sbt
-   run <filename>
+    sbt
+    run <filename>
    
 brings up a text view of the file.
 
